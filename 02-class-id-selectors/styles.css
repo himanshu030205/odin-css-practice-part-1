@@ -1,0 +1,20 @@
+.bg-color {
+  background-color: rgb(234, 170, 170);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num-2 {
+  color: rgb(27, 101, 227);
+  font-size: 36px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#num-4 {
+  background-color: rgb(21, 206, 125);
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.num-3 {
+  font-size: 24px;
+}
